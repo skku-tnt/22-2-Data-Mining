@@ -46,14 +46,3 @@
 </p>
 <br />
 <br />
-
-## 🔔 참고 자료
-<br />
-                                                                                                                                         
-[유튜브](https://www.youtube.com/channel/UCmx25Y3u1S-5rkoVvWdXWaw) 페이지 : 발제자 사전 녹화 영상 업로드(토요일 자정 이전까지 업로드)
-
-[노션](https://www.notion.so/2022-2-TNT-2a13d773da5a4d4a8850f305c361d7ce) 페이지 : QnA 2개 이상씩 업로드 
-
-[깃헙](https://github.com/skku-tnt/22-2-Data-Mining) 페이지 : 교재 코드 복기, 과제 코드 업로드
-
-22-02 데이터마이닝 팀장 서유진 올림
