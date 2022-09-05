@@ -42,7 +42,16 @@
 - 커리큘럼에는 공모전 기간을 따로 두었지만 선정된 공모전이 시행되는 기간에 맞춰 중간고사 이전부터 공모전 준비를 할 예정입니다.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/89994770/188405353-4291dc17-d339-40fa-a8d4-4aaea27a0272.png" width = 50% height = "50%>
+<img src = "https://user-images.githubusercontent.com/89994770/188404720-568a6a47-5ded-4a75-8c5e-4ae8340c9054.png" width = "30%" height = "30%">
 </p>
 <br />
-<br />
+
+## 🔔 참고 자료
+
+[노션](https://www.notion.so/2022-2-TNT-2a13d773da5a4d4a8850f305c361d7ce) 페이지 : QnA 2개 이상씩 업로드 
+
+[유튜브](https://www.youtube.com/channel/UCmx25Y3u1S-5rkoVvWdXWaw) 페이지 : 발제자 사전 녹화 영상 업로드(토요일 자정 이전까지 업로드)
+
+[깃헙](https://github.com/skku-tnt/22-2-Data-Mining) 페이지 : 교재 코드 복기, 과제 코드 업로드
+
+22-02 데이터마이닝 팀장 서유진 올림
