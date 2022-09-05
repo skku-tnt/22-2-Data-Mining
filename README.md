@@ -48,7 +48,8 @@
 <br />
 
 ## 🔔 참고 자료
-
+<br />
+                                                                                                                                         
 [유튜브](https://www.youtube.com/channel/UCmx25Y3u1S-5rkoVvWdXWaw) 페이지 : 발제자 사전 녹화 영상 업로드(토요일 자정 이전까지 업로드)
 
 [노션](https://www.notion.so/2022-2-TNT-2a13d773da5a4d4a8850f305c361d7ce) 페이지 : QnA 2개 이상씩 업로드 
