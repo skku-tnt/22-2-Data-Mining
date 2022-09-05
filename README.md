@@ -23,13 +23,14 @@
 
 시간 : 화요일 저녁 8시
 <br />
+<br />
 
 ## 🔔 스터디 교재
 
 - 파이썬 머신러닝 완벽 가이드
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/89994770/188404720-568a6a47-5ded-4a75-8c5e-4ae8340c9054.png" width = "40%" height = "40%">
+<img src = "https://user-images.githubusercontent.com/89994770/188404720-568a6a47-5ded-4a75-8c5e-4ae8340c9054.png" width = "30%" height = "30%">
 </p>
 <br />
 <br />
