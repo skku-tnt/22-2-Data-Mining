@@ -30,15 +30,13 @@
 <br />
 
 
-
-
 ## 🔔 스터디 커리큘럼
 
 - 일정은 함께 상의 후 추가/변경될 수 있습니다.
 - 커리큘럼에는 공모전 기간을 따로 두었지만 선정된 공모전이 시행되는 기간에 맞춰 중간고사 이전부터 공모전 준비를 할 예정입니다.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/89994770/188405353-4291dc17-d339-40fa-a8d4-4aaea27a0272.png" width = 70% height = "70%>
+<img src = "https://user-images.githubusercontent.com/89994770/188405353-4291dc17-d339-40fa-a8d4-4aaea27a0272.png" width = 50% height = "50%>
 </p>
 <br />
 
