@@ -25,9 +25,11 @@
 - 파이썬 머신러닝 완벽 가이드
 
 <p align="center">
-<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d3b85d4-4913-414e-bf0a-bc405d170b8c/Untitled.png" width = "70%" height = "70%">
+<img src = "https://user-images.githubusercontent.com/89994770/188404720-568a6a47-5ded-4a75-8c5e-4ae8340c9054.png", width = "70%" height = "70%">
 </p>
 <br />
+
+
 
 
 ## 🔔 스터디 커리큘럼
