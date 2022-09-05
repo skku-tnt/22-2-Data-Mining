@@ -25,9 +25,10 @@
 - 파이썬 머신러닝 완벽 가이드
 
 <p align="center">
-<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d3b85d4-4913-414e-bf0a-bc405d170b8c/Untitled.png", width = "70%" height = "70%">
+<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d3b85d4-4913-414e-bf0a-bc405d170b8c/Untitled.png" width = "70%" height = "70%">
 </p>
 <br />
+
 
 ## 🔔 스터디 커리큘럼
 
@@ -35,7 +36,7 @@
 - 커리큘럼에는 공모전 기간을 따로 두었지만 선정된 공모전이 시행되는 기간에 맞춰 중간고사 이전부터 공모전 준비를 할 예정입니다.
 
 <p align="center">
-<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c99ea27-0cc6-4e98-89d2-16e855324031/Untitled.png", width = "70%" height = "70%">
+<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c99ea27-0cc6-4e98-89d2-16e855324031/Untitled.png" width = "70%" height = "70%">
 </p>
 <br />
 
