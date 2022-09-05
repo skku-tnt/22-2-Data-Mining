@@ -42,7 +42,7 @@
 - 커리큘럼에는 공모전 기간을 따로 두었지만 선정된 공모전이 시행되는 기간에 맞춰 중간고사 이전부터 공모전 준비를 할 예정입니다.
 
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/89994770/188404720-568a6a47-5ded-4a75-8c5e-4ae8340c9054.png" width = "30%" height = "30%">
+<img src = "https://user-images.githubusercontent.com/89994770/188408907-63bfef3c-9b16-4bdc-ba18-eab916617290.png" width = "30%" height = "30%">
 </p>
 <br />
 
