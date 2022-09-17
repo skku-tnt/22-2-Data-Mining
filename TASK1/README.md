@@ -8,7 +8,6 @@
     
     [test.csv](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06e77728-41bb-4c24-be87-2d3acce31a61/test.csv)
 
-- [5497, 14]로 구성된 정형 데이터입니다.
 - dataset.csv를 이용해서 지금까지 배웠던 내용을 바탕으로 분석을 진행하시면 됩니다. 정답은 없으니 자유롭게 진행해주세요!
     
     예시 순서입니다)
